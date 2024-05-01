@@ -1,1 +1,1 @@
-# Point_Cloud_Classification_PointNet
+# Implementation of Classical Machine Learning Algorithms from Scratch in Python
